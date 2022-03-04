@@ -20,8 +20,8 @@ ENV SONAR_VERSION=7.6 \
     SQ_CITY_VERSION=1.0.1 \
     # Database configuration
     # Defaults to using H2
-    SONARQUBE_JDBC_USERNAME=sonar \
-    SONARQUBE_JDBC_PASSWORD=sonar \
+    SONARQUBE_JDBC_USERNAME=sonar123 \
+    SONARQUBE_JDBC_PASSWORD=sonarpass \
     SONARQUBE_JDBC_URL=
 
 # Http port
